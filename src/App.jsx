@@ -109,7 +109,7 @@ function Pricing() {
         <img src={config.priceImage} alt="Tabela de serviços e valores da profissional" />
       </div>
     </div>
-    <div className="pricing-cta"><p>Gostou de algum dos meus trabalhos? <em>Vamos deixar suas unhas ainda mais lindas!</em></p><a className="button button-dark" href={whatsappLink('Olá! Vi seu portfólio e gostaria de saber mais sobre os serviços e valores.')} target="_blank" rel="noreferrer">Consultar pelo WhatsApp <ArrowUpRight size={17} /></a></div>
+    <div className="pricing-cta"><p>Gostou de algum dos meus trabalhos? <em>Vamos deixar suas unhas ainda mais lindas!</em></p><a className="button button-dark" href={whatsappLink('Olá! Vi seu trabalho e gostaria de saber mais sobre os serviços e valores.')} target="_blank" rel="noreferrer">Consultar pelo WhatsApp <ArrowUpRight size={17} /></a></div>
   </section>
 }
 
